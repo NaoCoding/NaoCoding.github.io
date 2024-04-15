@@ -28,3 +28,10 @@
 <h4>Some advices / recommendations after taken courses in NTNU</h4>
 
 [https://github.com/NaoCoding/NTNU_Courses](https://github.com/NaoCoding/NTNU_Courses)
+
+<h2>NTNU_CP1_Code</h2>
+<h4>Source Code of homeworks and tests belong to CP2(Computer Programming 1)</h4>
+
+[https://github.com/NaoCoding/NTNU_CP1_Code](https://github.com/NaoCoding/NTNU_CP1_Code)
+
+
