@@ -1,7 +1,7 @@
 
 
 
-<h3>Categories of my projects / small repos</h3><br>
+<h3>List of my projects / small repos</h3><br>
 
 <h2>Python Library / Package</h2>
 
