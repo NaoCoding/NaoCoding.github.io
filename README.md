@@ -5,11 +5,11 @@
 
 <h4>Teleport to Target Topic</h4>
 
-[Chrome Extensions](#Chrome-Extensions) <br>
-[GUI Applications](#GUI-Applications)<br>
-[Discord Bots](#Discord-Bots)<br>
-[Any Related to Courses in NTNU](#Any-Related-to-Courses-in-NTNU)<br>
-[Python Library / Package](#Python-Library-Package)<br>
+[Chrome Extensions](/chromeExtensions.md) <br>
+[GUI Applications](/guiapp.md)<br>
+[Discord Bots](/dcBots.md)<br>
+[Any Related to Courses in NTNU](/NTNU.md)<br>
+[Python Library / Package](/pylib.md)<br>
 
 <h2>Chrome Extensions</h2>
 
