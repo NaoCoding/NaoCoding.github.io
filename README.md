@@ -1,7 +1,4 @@
 <h1>NaoCoding</h1>
 <br>
 
-<h2>CodeForces Python Library</h2>
-<h4>Python library for easy accessing CodeForces API</h4>
-
-[https://naocoding.github.io/CodeForces.py/](https://naocoding.github.io/CodeForces.py/)
+[Python Libraries](/pylib.md)
