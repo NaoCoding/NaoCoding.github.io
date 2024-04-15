@@ -9,7 +9,7 @@
 [GUI Applications](#GUI-Applications)<br>
 [Discord Bots](#Discord-Bots)<br>
 [Any Related to Courses in NTNU](#Any-Related-to-Courses-in-NTNU)<br>
-[Python Library / Package](#Python-Library-/-Package)<br>
+[Python Library / Package](#Python-Library-Package)<br>
 
 <h2>Chrome Extensions</h2>
 
@@ -65,7 +65,7 @@ NTNU_Courses
 NTNU_CP1_Code 
 ```
 
-<h2>Python Library / Package</h2>
+<h2>Python Library Package</h2>
 
 [Python Library / Package](/pylib.md)
 <h5>2024</h5>
