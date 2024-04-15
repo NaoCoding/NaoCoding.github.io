@@ -13,3 +13,8 @@
 <h4>Chrome Extension to change color theme in NTNU Moodle</h4>
 
 [https://github.com/NaoCoding/NTNU_Moodle_ColorTheme](https://github.com/NaoCoding/NTNU_Moodle_ColorTheme)
+
+<h2>NTNU_CP2_Attendence</h2>
+<h4>Chrome Extension for auto fill Attendence Google Fourm</h4>
+
+[https://github.com/NaoCoding/NTNU_CP2_Attendence](https://github.com/NaoCoding/NTNU_CP2_Attendence)
