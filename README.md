@@ -3,6 +3,14 @@
 
 <h3>List of my projects / small repos</h3><br>
 
+<h4>Teleport to Target Topic</h4>
+
+[Chrome Extensions](#Chrome-Extensions) <br>
+[GUI Applications](#GUI-Applications)<br>
+[Discord Bots](#Discord-Bots)<br>
+[Any Related to Courses in NTNU](#Any-Related-to-Courses-in-NTNU)<br>
+[Python Library / Package](#Python-Library-/-Package)<br>
+
 <h2>Chrome Extensions</h2>
 
 [Chrome Extensions](/chromeExtensions.md)
