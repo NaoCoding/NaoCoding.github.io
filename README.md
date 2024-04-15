@@ -1,4 +1,4 @@
-<h1>NaoCoding</h1>
+
 
 
 <h3>Categories of my projects / small repos</h3><br>
@@ -14,3 +14,10 @@ Include:
 <h2>Chrome Extensions</h2>
 
 [Chrome Extensions](/chromeExtensions.md)
+
+```
+Including:
+    CSDN_CodeCopyEnableExtension
+    NTNU_Moodle_AutoLoginExtension
+    NTNU_Moodle_ColorThemeExtension
+```
