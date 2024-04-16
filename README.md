@@ -1,7 +1,6 @@
 
 
 
-<h3>List of my projects / small repos</h3><br>
 
 [GitHub](https://github.com/NaoCoding)
 
