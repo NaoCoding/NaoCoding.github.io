@@ -3,6 +3,8 @@
 
 <h3>List of my projects / small repos</h3><br>
 
+[GitHub](https://github.com/NaoCoding)
+
 <h4>Teleport to Target Topic</h4>
 
 [Chrome Extensions](/chromeExtensions.md) <br>
