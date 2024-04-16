@@ -9,6 +9,7 @@
 [Chrome Extensions](/chromeExtensions.md) <br>
 [GUI Applications](/guiapp.md)<br>
 [Discord Bots](/dcBots.md)<br>
+[Web / JavaScript tools](/webjs.md)<br>
 [Any Related to Courses in NTNU](/NTNU.md)<br>
 [Python Library / Package](/pylib.md)<br>
 [Contributions In Popular Github Repos](/githubContributions.md)<br>
@@ -46,6 +47,17 @@ HandChromeDino
 ```
 NTNU_CP2 2024 Bot 
 ```
+
+
+<h2>Web / JavaScript tools</h2>
+
+[Web / JavaScript tools](/webjs.md)
+<h5>2024</h5>
+
+```
+BMP Reader (p5.js)
+```
+
 
 <h2>Any Related to Courses in NTNU</h2>
 
