@@ -6,7 +6,7 @@
 
 <h4>Teleport to Target Topic</h4>
 
-[Large Scale Projects](/largescaleprojects.md)_<br>
+[Large Scale Projects](/largescaleprojects.md)<br>
 [Chrome Extensions](/chromeExtensions.md) <br>
 [GUI Applications](/guiapp.md)<br>
 [Discord Bots](/dcBots.md)<br>
