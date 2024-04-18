@@ -6,6 +6,7 @@
 
 <h4>Teleport to Target Topic</h4>
 
+[Large Scale Projects](/largescaleprojects.md)_<br>
 [Chrome Extensions](/chromeExtensions.md) <br>
 [GUI Applications](/guiapp.md)<br>
 [Discord Bots](/dcBots.md)<br>
@@ -13,6 +14,16 @@
 [Any Related to Courses in NTNU](/NTNU.md)<br>
 [Python Library / Package](/pylib.md)<br>
 [Contributions In Popular Github Repos](/githubContributions.md)<br>
+
+<h2>Large Scale Projects</h2>
+
+[Large Scale Projects](/largescaleprojects.md)
+
+<h5>2024</h5>
+
+``` 
+Interactive Fiction Engine.c ( Generate html/js/css automatically )
+```
 
 <h2>Chrome Extensions</h2>
 
