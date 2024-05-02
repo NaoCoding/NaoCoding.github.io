@@ -21,8 +21,9 @@
 
 <h5>2024</h5>
 
-``` 
-Interactive Fiction Engine.c ( Generate html/js/css automatically )
+```
+Interactive Fiction Engine.c ( Generate html/js/css automatically , Final Project of Computer Programming )
+NTNU_GameProgramming_FinalProject ( Final Project of Game Programming )
 ```
 
 <h2>Chrome Extensions</h2>
