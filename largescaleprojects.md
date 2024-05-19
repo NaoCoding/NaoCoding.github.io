@@ -10,3 +10,7 @@
 
 [https://github.com/NaoCoding/NTNU_GameProgramming_FinalProject](https://github.com/NaoCoding/NTNU_GameProgramming_FinalProject)
 
+<h2>Monochromatic </h2>
+<h4>( 2024 NTNU Game Jam  (48 hours) , 1st reward)</h4>
+
+[https://github.com/NaoCoding/Monochromatic](https://github.com/NaoCoding/Monochromatic)
