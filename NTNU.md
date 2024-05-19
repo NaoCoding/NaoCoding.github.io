@@ -1,3 +1,8 @@
+<h2>Monochromatic </h2>
+<h4>( 2024 NTNU Game Jam  (48 hours) , 1st reward)</h4>
+
+[https://github.com/NaoCoding/Monochromatic](https://github.com/NaoCoding/Monochromatic)
+
 
 <h2>NTNU CP2 2024 Bot</h2>
 <h4>Discord bot offering testcase / linux compile check for cp2 course in NTNU</h4>
