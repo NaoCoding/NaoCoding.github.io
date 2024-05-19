@@ -24,6 +24,7 @@
 ```
 Interactive Fiction Engine.c ( Generate html/js/css automatically , Final Project of Computer Programming )
 NTNU_GameProgramming_FinalProject ( Final Project of Game Programming )
+Monochromatic ( 2024 NTNU Game Jam  (48 hours) , 1st reward)
 ```
 
 <h2>Chrome Extensions</h2>
@@ -67,6 +68,7 @@ NTNU_CP2 2024 Bot
 <h5>2024</h5>
 
 ```
+Monochromatic ( 2024 NTNU Game Jam  (48 hours) , 1st reward)
 BMP Reader (p5.js)
 ```
 
@@ -77,6 +79,7 @@ BMP Reader (p5.js)
 <h5>2024</h5>
 
 ```
+Monochromatic ( 2024 NTNU Game Jam  (48 hours) , 1st reward)
 NTNU_CP2 2024 Bot
 NTNU_CP2_Attendence
 NTNU_CP2_Code
