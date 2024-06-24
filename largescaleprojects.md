@@ -3,7 +3,7 @@
 
 [Official Document](https://github.com/NaoCoding/Interactive-Fiction-Engine.c.document) <br>
 
-[Coming Soon](https://github.com/NaoCoding/) <br>
+[https://github.com/NaoCoding/Interactive-Fiction-Engine.c](https://github.com/NaoCoding/Interactive-Fiction-Engine.c) <br>
 
 <h2>NTNU GameProgramming FinalProject</h2>
 <h4>Game Programming (Course in NTNU) Final Project</h4>
