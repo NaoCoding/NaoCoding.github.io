@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on NaoCoding&#39;s Space</title>
+    <link>http://localhost:1313/tags/website/</link>
+    <description>Recent content in Website on NaoCoding&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@andylu-dev (Andy Lu)</managingEditor>
+    <webMaster>me@andylu-dev (Andy Lu)</webMaster>
+    <copyright>© 2024 Andy Lu</copyright>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NTNU_GameProgramming_FinalProject</title>
+      <link>http://localhost:1313/side_projects/ntnu_gameprogramming_finalproject/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/side_projects/ntnu_gameprogramming_finalproject/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

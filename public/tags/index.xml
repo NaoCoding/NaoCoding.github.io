@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on NaoCoding&#39;s Space</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on NaoCoding&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@andylu-dev (Andy Lu)</managingEditor>
+    <webMaster>me@andylu-dev (Andy Lu)</webMaster>
+    <copyright>© 2024 Andy Lu</copyright>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcements</title>
+      <link>http://localhost:1313/tags/announcements/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/announcements/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Structure</title>
+      <link>http://localhost:1313/tags/data-structure/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/data-structure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Homework</title>
+      <link>http://localhost:1313/tags/homework/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/homework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GUI</title>
+      <link>http://localhost:1313/tags/gui/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/gui/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MQTT</title>
+      <link>http://localhost:1313/tags/mqtt/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/mqtt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PyQt</title>
+      <link>http://localhost:1313/tags/pyqt/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/pyqt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Side Project</title>
+      <link>http://localhost:1313/tags/side-project/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/side-project/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>http://localhost:1313/tags/c/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Http.server</title>
+      <link>http://localhost:1313/tags/http.server/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/http.server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Discord.py</title>
+      <link>http://localhost:1313/tags/discord.py/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/discord.py/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>P5.js</title>
+      <link>http://localhost:1313/tags/p5.js/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/p5.js/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>http://localhost:1313/tags/website/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <author>me@andylu-dev (Andy Lu)</author>
+      <guid>http://localhost:1313/tags/website/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
