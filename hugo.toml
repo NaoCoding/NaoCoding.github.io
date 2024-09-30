@@ -11,3 +11,4 @@ title = 'My New Hugo Site'
           inline = [['\(', '\)']]
 [params]
   math = true
+  
