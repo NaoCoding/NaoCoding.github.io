@@ -1,1 +1,1 @@
-[blog.andy-lu.dev](blog.andy-lu.dev)
+[blog.andy-lu.dev](https://blog.andy-lu.dev)
