@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/homeworks/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/homeworks/data_structure_hw2/data-structure-homework-2/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,13 +33,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/homeworks/</loc>
-    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/homeworks/data_structure/</loc>
+    <loc>http://localhost:1313/homeworks/data_structure_hw1/</loc>
     <lastmod>2024-09-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
